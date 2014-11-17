@@ -1,0 +1,202 @@
+Casey Wilson
+Anh Le
+
+=== Results ===
+
+Wins: 20/20
+Loses: 0/20
+
+=== StupidAI ===
+
+java Main -p1 minimax_997995396_998513706 -p2 StupidAI -text -seed 1
+.......
+.......
+.......
+o......
+o......
+oxxxx..
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 StupidAI -text -seed 2
+.......
+.......
+.......
+o......
+o......
+oxxxx..
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 StupidAI -text -seed 3
+.......
+.......
+.......
+o......
+o......
+oxxxx..
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 StupidAI -text -seed 4
+.......
+.......
+.......
+o......
+o......
+oxxxx..
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 StupidAI -text -seed 5
+.......
+.......
+.......
+o......
+o......
+oxxxx..
+Player 1 won
+
+=== RandomAI ===
+
+java Main -p1 minimax_997995396_998513706 -p2 RandomAI -text -seed 1
+..x....
+..x....
+..xo...
+..xx...
+..ox...
+oooxo..
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 RandomAI -text -seed 2
+...x...
+...x...
+...x...
+..ox...
+..oo.o.
+.xxx.oo
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 RandomAI -text -seed 3
+.......
+.......
+...x...
+...x...
+...x...
+.o.xoo.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 RandomAI -text -seed 4
+.......
+.......
+...x...
+...x...
+...x...
+o.ox..o
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 RandomAI -text -seed 5
+.......
+.......
+.......
+o......
+o..xo..
+oxxxx..
+Player 1 won
+
+=== MonteCarloAI ===
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 1
+...o...
+...x...
+.xxxx..
+.ooxo..
+.oxoo..
+.oxxox.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 2
+..oxxo.
+.xxxxo.
+oooxxx.
+xxxoox.
+oooxxo.
+oxoxoo.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 3
+...o...
+...x...
+.xxxx..
+.ooxo..
+.oxoo..
+.oxxox.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 4
+..oxxo.
+..xxxo.
+..oxxx.
+x.xoox.
+oxoxxoo
+oxoxooo
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 5
+.o.oox.
+.oxxxo.
+.xoxxx.
+.oxxxo.
+.oxooo.
+.oxxxo.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 6
+...o...
+...x...
+.xxxx..
+.ooxo..
+.oxoo..
+.oxxox.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 7
+.oxxo..
+.oxxx..
+.xxxo..
+.xoox.x
+.oxxoxo
+.ooxooo
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 8
+..oxxo.
+..xxxo.
+..oxxx.
+x.xoox.
+oxoxxoo
+oxoxooo
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 9
+.o.oox.
+.oxxxo.
+.xoxxx.
+.oxxxo.
+.oxooo.
+.oxxxo.
+Player 1 won
+
+java Main -p1 minimax_997995396_998513706 -p2 MonteCarloAI -text -seed 10
+...o...
+...x...
+.xxxx..
+.ooxo..
+.oxoo..
+.oxxox.
+Player 1 won
+
+=== Results ===
+
+Wins: 20/20
+Loses: 0/20
+
+
+
+

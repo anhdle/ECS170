@@ -1,0 +1,29 @@
+-seed 1
+DijkstraAI
+PathCost, 198.59165501141644, Uncovered, 162340, TimeTaken, 809
+AStarDiv_997995396_998513706
+PathCost, 198.59165501141644, Uncovered, 36316, TimeTaken, 260
+
+-seed 2
+DijkstraAI
+PathCost, 198.56141550095256, Uncovered, 162364, TimeTaken, 826
+AStarDiv_997995396_998513706
+PathCost, 198.56141550095256, Uncovered, 36310, TimeTaken, 252
+
+-seed 3
+DijkstraAI
+PathCost, 198.4864317411443, Uncovered, 162247, TimeTaken, 853
+AStarDiv_997995396_998513706
+PathCost, 198.4864317411443, Uncovered, 36229, TimeTaken, 265
+
+-seed 4
+DijkstraAI
+PathCost, 198.70066424826052, Uncovered, 162263, TimeTaken, 821
+AStarDiv_997995396_998513706
+PathCost, 198.70066424826052, Uncovered, 36206, TimeTaken, 267
+
+-seed 5
+DijkstraAI
+PathCost, 198.25499446810397, Uncovered, 161946, TimeTaken, 809
+AStarDiv_997995396_998513706
+PathCost, 198.25499446810397, Uncovered, 36068, TimeTaken, 242
